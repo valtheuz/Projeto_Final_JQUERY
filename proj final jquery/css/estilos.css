@@ -1,12 +1,8 @@
-.navbar {
-    background-color: #f8f9fa;
-    padding: 1rem;
-}
 
 .navbar-brand {
     font-weight: bold;
     font-size: 1.5rem;
-    color: #ffffff !important; 
+    color: #1b1331 !important; 
     font-family:Georgia, 'Times New Roman', Times, serif
 }
 
@@ -15,20 +11,16 @@
 }
 
 .nav-link {
-    color: #ffffff !important;
+    color: #332955 !important;
     font-size: 1.1rem;
 }
 
 .nav-link:hover {
-    color: darkred !important;
+    color: rgb(89, 0, 255) !important;
 }
 
 .navbar-toggler {
     border: none;
-}
-
-.navbar-toggler-icon {
-    background-color: darkred;
 }
 
 .d-flex {
